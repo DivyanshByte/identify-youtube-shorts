@@ -14,5 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyanshByte/identify-youtube-shorts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DivyanshByte/identify-youtube-shorts/issues"
+  },
+  "homepage": "https://github.com/DivyanshByte/identify-youtube-shorts#readme"
 }
