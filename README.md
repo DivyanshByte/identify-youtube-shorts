@@ -20,3 +20,6 @@ async function example(videoID){
 }
 example(videoID)
 ```
+
+# Errors
+### The Function will raise a `IdentifyYoutubeShortsError` Error with the cause.
